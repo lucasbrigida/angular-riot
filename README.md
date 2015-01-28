@@ -17,6 +17,24 @@ Don't know **RIOT** [learn more](https://muut.com/riotjs/).
 ``` bash
 $ bower uninstall https://github.com/lucasbrigida/angular-riot.git --save
 ```
+### How use
+Foolow [these instructions](https://muut.com/riotjs/guide/) and create similar code, 
+``` javascript
+angular.module('moduleName', ['angular-riot'])
+  .controller('ctrlName', ['$scope', $document, 'riot', function ($scope, $document, riot) {
+      $document.ready(function () { 
+        riot.mount('todo', {
+          title: 'I want to behave!',
+          items: [
+            { title: 'Avoid excessive coffeine', done: true },
+            { title: 'Hidden item', hidden: true },
+            { title: 'Be less provocative' },
+            { title: 'Be nice to people' }
+          ]
+        });
+      });
+}]);
+```
 ### Version
 0.0.1
 
