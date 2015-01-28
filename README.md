@@ -9,13 +9,13 @@ $ bower install riot --save
 ```
 ### Install
 ``` sh
-$ bower install https://github.com/lucasbrigida/angular-riot.git --save
+$ bower install angular-riot --save
 ```
 Don't know **RIOT** [learn more](https://muut.com/riotjs/).
 
 ### Uninstall
 ``` bash
-$ bower uninstall https://github.com/lucasbrigida/angular-riot.git --save
+$ bower uninstall angular-riot --save
 ```
 ### How use
 Foolow [these instructions](https://muut.com/riotjs/guide/) and create similar code, 
