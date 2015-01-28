@@ -4,7 +4,7 @@
     @description: riot module for angular
  */
 
-angular.module('ngRiot', [])
+angular.module('angular-riot', [])
   .factory('riot', ['$window', '$log',
     function ($window, $log) {
 
@@ -13,7 +13,5 @@ angular.module('ngRiot', [])
         return $log.error('Riot not installed, install package run: "bower install riot -g", More information: https://muut.com/riotjs/download.html');
       }
 
-      return {
-
-      };
+      return $window.riot;
 }])
