@@ -1,0 +1,26 @@
+{
+  "name": "ng-riot",
+  "version": "0.0.0",
+  "main": "ng-riot.js",
+  "authors": [
+    "lucasbrigida <lucasbrigida@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucasbrigida/ng-riot.git"
+  },
+  "description": "riot.js module for angular",
+  "keywords": [
+    "riot",
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ]
+}
