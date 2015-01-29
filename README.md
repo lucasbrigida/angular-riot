@@ -50,3 +50,7 @@ MIT
 
 **Free Software, Hell Yeah!**
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/lucasbrigida/angular-riot/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
