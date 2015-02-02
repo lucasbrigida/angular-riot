@@ -1,6 +1,8 @@
 #riot.js module for angularjs
 ![riotjs](https://muut.com/riotjs/logo/riot240x.png)    ![angular](https://angularjs.org/img/AngularJS-large.png)
 
+![bower](https://img.shields.io/bower/v/angular-riot.svg)   [![Gitter chat](https://badges.gitter.im/lucasbrigida/angular-riot.png)](https://gitter.im/lucasbrigida/angular-riot) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/lucasbrigida/angular-riot/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 Description
 =========
 Today, you can use Angular + React with **[ng-react](https://github.com/davidchang/ngReact)** but I think isn't friendly enough.
@@ -15,7 +17,7 @@ Benefits
 =======
 Reduce the number of $$watchers inside Angular to improve the $digest cycle’s performance, beyond get all the benefits of using [riot](https://muut.com/riotjs).
 
-> I'm using in a old project and cut the time rendering from 40 s to 5s.
+> I'm using in a old project and decreased the time rendering in seconds to mileseconds.
 
 
 ### Prerequisites
@@ -65,8 +67,3 @@ MIT
 
 
 **Free Software, Hell Yeah!**
-
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/lucasbrigida/angular-riot/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
