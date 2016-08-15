@@ -1,4 +1,4 @@
-#riot.js module for angularjs
+#riot.js module for angularjs [DEPRECATED]
 ![riotjs](https://muut.com/riotjs/logo/riot240x.png)    ![angular](https://angularjs.org/img/AngularJS-large.png)
 
 ![bower](https://img.shields.io/bower/v/angular-riot.svg)   [![Gitter chat](https://badges.gitter.im/lucasbrigida/angular-riot.png)](https://gitter.im/lucasbrigida/angular-riot) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/lucasbrigida/angular-riot/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
