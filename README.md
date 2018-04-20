@@ -1,4 +1,4 @@
-#riot.js module for angularjs - DEPRECATED
+## riot.js module for angularjs - DEPRECATED
 
 ![riotjs](https://muut.com/riotjs/logo/riot240x.png)    ![angular](https://angularjs.org/img/AngularJS-large.png)
 
