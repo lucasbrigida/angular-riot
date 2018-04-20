@@ -2,7 +2,7 @@
 
 ![riotjs](https://muut.com/riotjs/logo/riot240x.png)    ![angular](https://angularjs.org/img/AngularJS-large.png)
 
-![bower](https://img.shields.io/bower/v/angular-riot.svg)   [![Gitter chat](https://badges.gitter.im/lucasbrigida/angular-riot.png)](https://gitter.im/lucasbrigida/angular-riot)
+![bower](https://img.shields.io/bower/v/angular-riot.svg)   [![Gitter chat](https://badges.gitter.im/lucasbrigida/angular-riot.png)](https://gitter.im/lucasbrigida/angular-riot) [![Hit Counter](http://hits.dwyl.io/lucasbrigida/angular-riot.svg)](http://hits.dwyl.io/lucasbrigida/angular-riot.svg)
 
 Description
 =========
